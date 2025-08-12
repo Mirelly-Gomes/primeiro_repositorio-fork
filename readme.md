@@ -12,11 +12,11 @@ git commit -m "Olá Mundo!"
 - [x] Acessando conta no Github
 - [x] Criar Repositório Local
 - [x] Criar Repositório Github
-- [ ] Estudar Fork
-- [ ] Executar comando Push
-- [ ] Executar comand pull
-- [ ] resolver conflito em merge
-- [ ] Criar Issue
+- [x] Estudar Fork
+- [x] Executar comando Push
+- [x] Executar comand pull
+- [x] resolver conflito em merge
+- [x] Criar Issue
 
 
 
