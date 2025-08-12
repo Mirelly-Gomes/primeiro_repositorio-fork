@@ -6,7 +6,7 @@
 git commit -m "Olá Mundo!"
 `
 
-- [ ] Instalar Git na máquina
+- [x] Instalar Git na máquina
 - [ ] Revisar comandos Unix
 - [ ] Comando básicos git
 - [ ] Acessando conta no Github
